@@ -1,0 +1,226 @@
+.title{
+    position: relative;right: -80px;top:15px;
+    display: flex;
+    gap: 20px;
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.t-logo{
+    mix-blend-mode: color-burn;
+}
+
+.feature{
+    font-size: 1.2em;
+    display: flex;
+    gap: 40px;
+    text-decoration: none;
+    color: black;
+    position: relative;left:700px;top:-45px
+}
+
+body{
+    height: 300px;
+    width: 300px;
+    position: relative;right:-100px;
+}
+
+.each{
+
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.each:hover{
+    font-size: 1.4em;
+}
+
+#reg{
+    background-color: rgb(127, 233, 127);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;top:-5px
+}
+#reg:hover{
+    background-color: rgb(173, 242, 173) ;
+}
+
+.hero{
+    position: relative;right:-50px;
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: #f8f9fa;
+}
+
+.content{
+    max-width: 50%;
+}
+
+h2{
+    font-size: 2em;
+    
+}
+span{
+    color:#3eb489;
+}
+
+p{
+    font-size: 1.1em;
+    color:#666;
+    margin: 20px 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;right:-50px;
+    text-align: center;
+    gap:10px;
+   
+
+
+    
+}
+
+.box{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    
+
+
+}
+.below{
+    height: 300px;
+    width: 1200px;
+    align-items: center;
+    position: relative;right:-40px;
+    gap:20px;
+}
+
+.yo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.unseen{
+    gap: 20px;
+    height: 250px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;top:20px;right: -50px;
+}
+
+.naya{
+    
+    padding: 50px;
+    text-align: center;
+    width: 1200px;
+    position: relative;right: -50px;
+}
+.naya-container{
+    display: flex;
+    justify-content: space-around;
+}
+.naya-box{
+    max-width: 30%;
+    box-shadow: #ddd;
+}
+.yash{
+    text-align: center;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;right:-400px ;top:-10px;
+    
+}
+
+.arrange{
+    background-color: #ddd;
+    align-items: center;
+    padding: 30px;
+    height: 110px;
+    width: 200px;
+    border-radius: 10px;
+    position: relative;top:-40px
+
+}
+
+.top{
+    position: relative;top:-15px
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 50px;
+    width: 1200px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-logo {
+    max-width: 25%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.footer-links ul,
+.footer-support ul {
+    padding: 0;
+}
+
+.footer-links li,
+.footer-support li {
+    margin-bottom: 10px;
+}
+
+.footer-links a,
+.footer-support a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-subscribe input {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    max-width: 100%;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    position: relative;top:70px;right:380px;
+    
+}
+
+#ss{
+    background-color: black;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius:50% ;
+    color: white;
+    
+}
+
+#ss:hover{
+    background-color: rgb(84, 82, 82);
+    font-size: large;
+}
